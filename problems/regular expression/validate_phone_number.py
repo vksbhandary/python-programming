@@ -3,7 +3,6 @@
 # Difficulty- Easy
 # Concept usage - Regular expression
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 
 import re
 total = int(input())
