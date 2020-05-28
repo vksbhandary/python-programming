@@ -1,7 +1,7 @@
 # This is solution to problem stated in link https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
 # Points -  20
 # Difficulty- Easy
-# Concept usage - Lists and dictionary
+# Concept usage - Regular expressions
 
 import re
 
